@@ -7,6 +7,7 @@ import openzeppelin from "../assets/openzeppelin.png";
 import chainlink from "../assets/chainlink.png";
 import ethers from "../assets/ethers.png";
 import github from "../assets/github.png";
+import javascript from "../assets/javascript.png";
 
 const Experience = () => {
   const techs = [
@@ -57,6 +58,11 @@ const Experience = () => {
       src: github,
       title: "GitHub",
       style: "shadow-gray-400",
+    },
+    {id: 9,
+      src: javascript,
+      title: "JavaScript",
+      style: "shadow-sky-500",
     }
   ];
 
