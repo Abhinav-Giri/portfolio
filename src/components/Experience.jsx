@@ -2,9 +2,9 @@ import React from "react";
 import react from "../assets/react.png";
 import solidity from "../assets/solidity.png";
 import hardhat from "../assets/hardhat.png";
-import alchemy from "../assets/alchemy.png";
-import openzeppelin from "../assets/openzeppelin.png";
-import chainlink from "../assets/chainlink.png";
+import alchemy from "../assets/css.png";
+import openzeppelin from "../assets/node.png";
+import chainlink from "../assets/html.png";
 import ethers from "../assets/ethers.png";
 import github from "../assets/github.png";
 import javascript from "../assets/javascript.png";
@@ -13,39 +13,39 @@ const Experience = () => {
   const techs = [
     {
       id: 1,
+      src: javascript,
+      title: "JavaScript",
+      style: "shadow-sky-500",
+    },
+    {
+      id: 2,
       src: react,
       title: "React",
       style: "shadow-sky-500",
     },
     {
-      id: 2,
+      id: 3,
       src: solidity,
       title: "Solidity",
       style: "shadow-gray-400",
     },
     {
-      id: 3,
+      id: 4,
       src: hardhat,
       title: "Hardhat",
       style: "shadow-yellow-500",
     },
-    {
-      id: 4,
-      src: alchemy,
-      title: "Alchemy",
-      style: "shadow-blue-600",
-    },
-    {
-      id: 5,
-      src: openzeppelin,
-      title: "OpenZeppelin",
+    {id: 5,
+      src: html,
+      title: "HTML",
       style: "shadow-sky-700",
+      
     },
     {
       id: 6,
-      src: chainlink,
-      title: "Chainlink",
-      style: "shadow-blue-700",
+      src: css,
+      title: "CSS",
+      style: "shadow-sky-700",
     },
     {
       id: 7,
@@ -60,9 +60,9 @@ const Experience = () => {
       style: "shadow-gray-400",
     },
     {id: 9,
-      src: javascript,
-      title: "JavaScript",
-      style: "shadow-sky-500",
+      src: node,
+      title: "Node.js",
+      style: "shadow-sky-700",
     }
   ];
 
