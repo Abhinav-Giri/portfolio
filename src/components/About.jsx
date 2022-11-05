@@ -11,7 +11,7 @@ const About = () => {
           <p className="inline text-4xl font-bold border-b-4 border-gray-500">
             About
           </p>
-          <h1 className="pt-5 text-xl font-bold">My Blockchain Journey:-</h1>
+          <h1 className="pt-5 text-xl font-bold">My Journey:-</h1>
         </div>
         <p className="text-xl">
           Did B.Tech and worked in different fields and different position, but when get more into software field my interest got struck.
