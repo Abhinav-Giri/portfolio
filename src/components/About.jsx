@@ -14,15 +14,15 @@ const About = () => {
           <h1 className="pt-5 text-xl font-bold">My Blockchain Journey:-</h1>
         </div>
         <p className="text-xl">
-          So, it all started in mid April-2022, when I got to know about blockchain technologies through a random video on You Tube. Its future applications and scope excited me to learn more and get into this field.
+          Did B.Tech and worked in different fields and different position, but when get more into software field my interest got struck.
         </p>
         
         <p className="text-xl">
-          I learned about blockchain and its supportive technologies through few online available tutorials and developed projects. I am very excited and passionate about building my carrier in Blockchain.
+          I learned about Front-end and blockchain and its supportive technologies through few online available tutorials and developed projects. I am very excited and passionate about building my carrier around it.
         </p>
         
         <p className="text-xl">
-          Currently learning Web3.0 development from <a href="https://www.learnweb3.io/" target="_blank" rel="noopener noreferrer" className="text-2xl font-bold">LearnWeb3</a>...
+          Working and learning software development from <a href="https://www.learnweb3.io/" target="_blank" rel="noopener noreferrer" className="text-2xl font-bold">LearnWeb3 and other resources</a>...
         </p>
       </div>
     </div>
