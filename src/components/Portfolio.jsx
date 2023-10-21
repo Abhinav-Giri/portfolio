@@ -2,30 +2,47 @@ import React from "react";
 import whitelist_dapp from "../assets/portfolio/whitelist_dapp.png";
 import nft_collection from "../assets/portfolio/nft_collection.png";
 import portfolio from "../assets/portfolio/portfolio.png";
+import grocery from "../assets/portfolio/Grocery_Flutter.png";
+import search from "../assets/portfolio/Search_Movie.png";
+
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      desc:"1. Solidity Project",
-      src: whitelist_dapp,
-      website: "https://whitelist-dapp-hellosumitg.vercel.app/",
-      github: "https://github.com/hellosumitg/whitelist-dapp"
+      desc:"1. Portfolio Project",
+      src: portfolio,
+      website: "https://portfolio-abhinav-giri.vercel.app/",
+      github: "https://github.com/Abhinav-Giri/portfolio"
+    },
+     {
+      id: 2,
+      desc:"2. Search_Movie",
+      src: search,
+      website: "",
+      github: "https://github.com/Abhinav-Giri/Search_Movie_Project"
     },
     {
-      id: 2,
-      desc:"2. ERC721 Project",
-      src: nft_collection,
+      id: 3,
+      desc:"3. Grocery_Flutter_App",
+      src: grocery,
       website: "",
-      github: "https://github.com/hellosumitg/nft_collection"
+      github: "https://github.com/Abhinav-Giri/Grocery_App_Flutter"
+    },
+    {
+      id: 4,
+      desc:"4. ERC721 Project",
+      src: nft_collection,
+      website: "https://nft-collection-abhinav-giri.vercel.app/",
+      github: "https://github.com/Abhinav-Giri/nft-collection"
     },
     
     {
-      id: 3,
-      desc:"3. Portfolio Project",
-      src: portfolio,
-      website: "https://portfolio-hellosumitg.vercel.app/",
-      github: "https://github.com/hellosumitg/portfolio"
+      id: 5,
+      desc:"5. Solidity Project",
+      src: whitelist_dapp,
+      website: "https://whitelist-dapp-abhinav-giri.vercel.app/",
+      github: "https://github.com/Abhinav-Giri/Whitelist-DApp"
     }
   ];
 
