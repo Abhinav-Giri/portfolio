@@ -8,7 +8,7 @@ import html from "../assets/html.png";
 import typescript from "../assets/typescript.png";
 import nextjs from "../assets/nextjs.png";
 import javascript from "../assets/javascript.png";
-import expressjs from "../assets/express.png";
+import expressjs from "../assets/expressjs.png";
 import mongodb from "../assets/mongodb.png";
 
 
