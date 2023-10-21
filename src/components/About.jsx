@@ -14,11 +14,11 @@ const About = () => {
           <h1 className="pt-5 text-xl font-bold">My Journey:-</h1>
         </div>
         <p className="text-xl">
-          Did B.Tech and worked in different fields and different position, but when get more into software field my interest got struck.
+          Did B.Tech and got customer based and mangerial positions and went engaged there. But gaining popularity of Blockchain technology grabbed my interest. Starting with solidity and blockchain,
         </p>
         
         <p className="text-xl">
-          I learned about Front-end and blockchain and its supportive technologies through few online available tutorials and developed projects. I am very excited and passionate about building my carrier around it.
+          I learned Javascript, React.js, Node.js, Typescript, Express, MongoDB, MySql, Next.js, Flutter and few supportive technologies.I am very excited and passionate about growing my carrier as a Software Engineer.
         </p>
         
         <p className="text-xl">
