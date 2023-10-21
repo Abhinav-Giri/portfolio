@@ -14,16 +14,16 @@ const About = () => {
           <h1 className="pt-5 text-xl font-bold">My Journey:-</h1>
         </div>
         <p className="text-xl">
-          Did B.Tech and got customer based and mangerial positions and went engaged there. But gaining popularity of Blockchain technology grabbed my interest. Starting with solidity and blockchain,
+         I completed my B.Tech degree and began my career in customer and managerial roles, where I became deeply involved and engaged. However, the rising prominence of Blockchain technology captivated my attention. Starting with solidity and blockchain,
         </p>
         
         <p className="text-xl">
-          I learned Javascript, React.js, Node.js, Typescript, Express, MongoDB, MySql, Next.js, Flutter and few supportive technologies.I am very excited and passionate about growing my carrier as a Software Engineer.
+          I continuously expanded my skill set by learning JavaScript, React.js, Node.js, TypeScript, Express, MongoDB, MySQL, Next.js, Flutter, and few supportive technologies. My commitment to ongoing learning fuels my excitement and passion for advancing my career as a Software Engineer.
         </p>
         
-        <p className="text-xl">
+{/*         <p className="text-xl">
           Working and learning software development from <a href="https://www.learnweb3.io/" target="_blank" rel="noopener noreferrer" className="text-2xl font-bold">LearnWeb3 and other resources</a>...
-        </p>
+        </p> */}
       </div>
     </div>
   );
