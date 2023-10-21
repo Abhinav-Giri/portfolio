@@ -1,13 +1,16 @@
 import React from "react";
 import react from "../assets/react.png";
-import solidity from "../assets/solidity.png";
-import hardhat from "../assets/hardhat.png";
+import blockchain from "../assets/blockchain.png";
+import flutter from "../assets/flutter.png";
 import css from "../assets/css.png";
 import node from "../assets/node.png";
 import html from "../assets/html.png";
-import ethers from "../assets/ethers.png";
-import github from "../assets/github.png";
+import typescript from "../assets/typescript.png";
+import nextjs from "../assets/nextjs.png";
 import javascript from "../assets/javascript.png";
+import expressjs from "../assets/express.png";
+import mongodb from "../assets/mongodb.png";
+
 
 const Experience = () => {
   const techs = [
@@ -23,16 +26,17 @@ const Experience = () => {
       title: "React",
       style: "shadow-sky-500",
     },
-    {
+   
+     {
       id: 3,
-      src: solidity,
-      title: "Solidity",
+      src: node,
+      title: "Node.js",
       style: "shadow-gray-400",
     },
     {
       id: 4,
-      src: hardhat,
-      title: "Hardhat",
+      src: typescript,
+      title: "Typescript",
       style: "shadow-yellow-500",
     },
     {id: 5,
@@ -49,19 +53,29 @@ const Experience = () => {
     },
     {
       id: 7,
-      src: ethers,
-      title: "ethers.js",
+      src: nextjs,
+      title: "Next.js",
       style: "shadow-blue-800",
     },
     {
       id: 8,
-      src: github,
-      title: "GitHub",
+      src: expressjs,
+      title: "Express.js",
       style: "shadow-gray-400",
     },
     {id: 9,
-      src: node,
-      title: "Node.js",
+      src: mongodb,
+      title: "Mongodb",
+      style: "shadow-sky-700",
+    },
+    {id: 10,
+      src: flutter,
+      title: "Flutter",
+      style: "shadow-sky-700",
+    },
+    {id: 11,
+      src: blockchain,
+      title: "Blockchain Development",
       style: "shadow-sky-700",
     }
   ];
