@@ -11,10 +11,10 @@ const Home = () => {
     >
       <div className="flex flex-col items-center justify-center h-full max-w-screen-lg px-4 mx-auto md:flex-row">
         <div className="flex flex-col justify-center h-full">
-          <h2 className="text-4xl font-bold text-white sm:text-7xl">
+          <h2 className="text-3xl font-bold text-white sm:text-5xl">
             I am Abhinav Giri   
             </h2>
-          <h2 className="text-3xl font-bold text-white sm:text-5xl">
+          <h2 className="text-2xl font-bold text-white sm:text-4xl">
              (Software Engineer)
           </h2>
           <p className="max-w-md py-4 text-gray-500">
