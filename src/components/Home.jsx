@@ -13,6 +13,7 @@ const Home = () => {
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl font-bold text-white sm:text-7xl">
             I am Abhinav Giri   
+            </h2>
           <h2 className="text-3xl font-bold text-white sm:text-5xl">
              (Software Engineer)
           </h2>
