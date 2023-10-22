@@ -1,6 +1,6 @@
 import React from "react";
 import react from "../assets/react.png";
-import blockchain from "../assets/blockchain.png";
+import blockchain from "../assets/blockchain.jpg";
 import flutter from "../assets/flutter.png";
 import css from "../assets/css.png";
 import node from "../assets/node.png";
