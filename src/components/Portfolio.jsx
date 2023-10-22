@@ -17,10 +17,11 @@ const Portfolio = () => {
     },
      {
       id: 2,
-      desc:"2. Search_Movie",
-      src: search,
-      website: "",
-      github: "https://github.com/Abhinav-Giri/Search_Movie_Project"
+        desc:"2. ERC721 Project",
+      src: nft_collection,
+      website: "https://nft-collection-abhinav-giri.vercel.app/",
+      github: "https://github.com/Abhinav-Giri/nft-collection"
+     
     },
     {
       id: 3,
@@ -31,10 +32,10 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      desc:"4. ERC721 Project",
-      src: nft_collection,
-      website: "https://nft-collection-abhinav-giri.vercel.app/",
-      github: "https://github.com/Abhinav-Giri/nft-collection"
+      desc:"4. Search_Movie",
+      src: search,
+      website: "",
+      github: "https://github.com/Abhinav-Giri/Search_Movie_Project"
     },
     
     {
