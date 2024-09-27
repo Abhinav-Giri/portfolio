@@ -24,17 +24,9 @@ const SocialLinks = () => {
       ),
       href: "https://www.linkedin.com/in/iamabhinavgiri/"
     },
+    
     {
       id: 3,
-      child: (
-        <>
-          Twitter <FaTwitter size={30} />
-        </>
-      ),
-      href:"https://twitter.com/iamabhinavgiri"
-    },
-    {
-      id: 4,
       child: (
         <>
           WhatsApp <FaWhatsapp size={30} />
@@ -43,7 +35,7 @@ const SocialLinks = () => {
       href:"https://wa.me/919599379011"
     },
     {
-      id: 5,
+      id: 4,
       child: (
         <>
           Mail <HiOutlineMail size={30} />
@@ -53,7 +45,7 @@ const SocialLinks = () => {
        //href: "https://mail.google.com/mail/u/1/?view=cm&fs=1&to=abhinavdev.tech@gmail.com&tf=1",
     },
     {
-      id: 6,
+      id:5,
       child: (
         <>
           Resume <BsFillPersonLinesFill size={30} />
