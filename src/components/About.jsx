@@ -9,16 +9,12 @@ const About = () => {
       <div className="flex flex-col justify-center w-full h-full max-w-screen-lg p-4 mx-auto">
         <div className="pb-5">
           <p className="inline text-4xl font-bold border-b-4 border-gray-500">
-            About
+            About Me
           </p>
-          <h1 className="pt-5 text-xl font-bold">My Journey:-</h1>
+          
         </div>
         <p className="text-xl">
-         I completed my B.Tech degree and began my career in customer and managerial roles, where I became deeply involved and engaged. However, the rising prominence of Blockchain technology captivated my attention. Starting with solidity and blockchain,
-        </p>
-        
-        <p className="text-xl">
-          I continuously expanded my skill set by learning JavaScript, React.js, Node.js, TypeScript, Express, MongoDB, MySQL, Next.js, Flutter, and few supportive technologies. My commitment to ongoing learning fuels my excitement and passion for advancing my career as a Software Engineer.
+         I am currently working as a Software Development Engineer at Rhizicube, where I've contributed to projects like Linknest, ANP Email Editor, Botpress WhatsApp Chatbot, as well as Proofs of Concept (PoCs) such as Creatives and Smart Quiz Generator. I utilize a range of technologies including Next.js, React.js, JavaScript, Node.js, HTML, and CSS. My dedication to continuous learning drives my passion for advancing my career in software development.
         </p>
         
 {/*         <p className="text-xl">
