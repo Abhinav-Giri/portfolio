@@ -1,7 +1,6 @@
 import React from "react";
 import react from "../assets/react.png";
-import blockchain from "../assets/blockchain.jpg";
-import flutter from "../assets/flutter.png";
+import mysql from "../assets/mysql.png";
 import css from "../assets/css.png";
 import node from "../assets/node.png";
 import html from "../assets/html.png";
@@ -69,15 +68,11 @@ const Experience = () => {
       style: "shadow-sky-700",
     },
     {id: 10,
-      src: flutter,
-      title: "Flutter",
+      src: mysql,
+      title: "My SQL",
       style: "shadow-sky-700",
     },
-    {id: 11,
-      src: blockchain,
-      title: "Blockchain Development",
-      style: "shadow-sky-700",
-    }
+  
   ];
 
   return (
