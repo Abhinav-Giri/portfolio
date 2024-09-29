@@ -5,7 +5,6 @@ import portfolio from "../assets/portfolio/portfolio.png";
 import admin from "../assets/portfolio/admin-dashboard.png";
 import search from "../assets/portfolio/Search_Movie.png";
 
-
 const Portfolio = () => {
   const portfolios = [
     {
