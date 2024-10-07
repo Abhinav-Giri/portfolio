@@ -14,7 +14,7 @@ const About = () => {
           
         </div>
         <p className="text-xl">
-         I am currently working as a Software Development Engineer at Rhizicube, where I've contributed to projects like Linknest, AMP Email Editor, Botpress WhatsApp Chatbot as well as Proofs of Concept (PoCs) such as Creatives and Smart Quiz Generator and written some blogs for company available on its official website rhizicube.ai. I utilize a range of technologies including Next.js, React.js, JavaScript, Node.js, HTML, and CSS. My dedication to continuous learning drives my passion for advancing my career in software development.
+         I am currently working as a Software Development Engineer at Rhizicube, worked on projects like Link-Nest, AMP Email Editor, Botpress WhatsApp Chatbot, Creatives and Smart Quiz Generator and written some blogs for company available on its official website rhizicube.ai. I utilize a range of technologies including Next.js, React.js, JavaScript, Node.js, HTML, and CSS. My dedication to continuous learning drives my passion for advancing my career in software development.
         </p>
         
 {/*         <p className="text-xl">
