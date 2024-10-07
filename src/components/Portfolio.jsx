@@ -72,7 +72,7 @@ const Portfolio = () => {
                 className="duration-200 rounded-md hover:scale-105"
               />
               <div className="flex items-center justify-center">
-                <a href={website} type="button" target="_blank" rel="noopener noreferrer" className="w-1/2 px-6 py-3 m-4 text-center duration-200 hover:scale-105">Demo</a>
+                {website &&   <a href={website} type="button" target="_blank" rel="noopener noreferrer" className="w-1/2 px-6 py-3 m-4 text-center duration-200 hover:scale-105">Demo</a>}
                 <a href={github} type="button" target="_blank" rel="noopener noreferrer" className="w-1/2 px-6 py-3 m-4 text-center duration-200 hover:scale-105">Code</a>
               </div>
             </div>
